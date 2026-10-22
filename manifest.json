@@ -4,11 +4,6 @@
                      "url":  "https://github.com/Xeno1177/releases/releases/download/AISorter-1.2.5/AISorter-1.2.5-win-x64.zip",
                      "published_at":  "2026-10-22T18:30:12Z"
                  },
-    "GameBackup":  {
-                       "tag":  "GameBackup-1.0.0",
-                       "url":  "https://github.com/Xeno1177/releases/releases/download/GameBackup-1.0.0/GameBackup-1.0.0-win-x64.zip",
-                       "published_at":  "2026-10-22T19:06:50Z"
-                   },
     "IcarusMods":  {
                        "tag":  "IcarusMods-W247",
                        "url":  "https://github.com/Xeno1177/releases/releases/download/IcarusMods-W247/IcarusMods-W247.zip",
@@ -18,5 +13,10 @@
                                      "PacklandsServer_W247_P.pak":  "c6251dc116e51d28ab436958254dbd1d483ad4bfa64102d03f0afcc29b13db70",
                                      "TameHealthBoost_W247_P.pak":  "a91232821dca2a257d732847f9fbebe733f3e1f166d405cb13d6f78c5368d2de"
                                  }
+                   },
+    "GameBackup":  {
+                       "tag":  "GameBackup-1.0.1",
+                       "url":  "https://github.com/Xeno1177/releases/releases/download/GameBackup-1.0.1/GameBackup-1.0.1-win-x64.zip",
+                       "published_at":  "2026-10-22T22:54:54Z"
                    }
 }
