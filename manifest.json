@@ -3,5 +3,10 @@
                      "tag":  "AISorter-1.2.5",
                      "url":  "https://github.com/Xeno1177/releases/releases/download/AISorter-1.2.5/AISorter-1.2.5-win-x64.zip",
                      "published_at":  "2026-10-22T18:30:12Z"
-                 }
+                 },
+    "GameBackup":  {
+                       "tag":  "GameBackup-1.0.0",
+                       "url":  "https://github.com/Xeno1177/releases/releases/download/GameBackup-1.0.0/GameBackup-1.0.0-win-x64.zip",
+                       "published_at":  "2026-10-22T19:06:50Z"
+                   }
 }
