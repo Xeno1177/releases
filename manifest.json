@@ -14,14 +14,14 @@
                                      "TameHealthBoost_W247_P.pak":  "a91232821dca2a257d732847f9fbebe733f3e1f166d405cb13d6f78c5368d2de"
                                  }
                    },
-    "GameBackup":  {
-                       "tag":  "GameBackup-1.0.2",
-                       "url":  "https://github.com/Xeno1177/releases/releases/download/GameBackup-1.0.2/GameBackup-1.0.2-win-x64.zip",
-                       "published_at":  "2026-10-23T14:32:37Z"
-                   },
     "PacklandsIMM":  {
                          "tag":  "PacklandsIMM-1.0.0",
                          "url":  "https://github.com/Xeno1177/releases/releases/download/PacklandsIMM-1.0.0/PacklandsIMM-1.0.0-win-x64.zip",
                          "published_at":  "2026-10-23T14:35:22Z"
-                     }
+                     },
+    "GameBackup":  {
+                       "tag":  "GameBackup-1.0.3",
+                       "url":  "https://github.com/Xeno1177/releases/releases/download/GameBackup-1.0.3/GameBackup-1.0.3-win-x64.zip",
+                       "published_at":  "2026-10-23T23:29:37Z"
+                   }
 }
