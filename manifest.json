@@ -28,5 +28,10 @@
                         "tag":  "DownloaderX-1.1.2",
                         "url":  "https://github.com/Xeno1177/releases/releases/download/DownloaderX-1.1.2/DownloaderX-1.1.2-win-x64.zip",
                         "published_at":  "2026-10-30T19:03:36Z"
-                    }
+                    },
+    "XCV":  {
+                "tag":  "XCV-0.7.7",
+                "url":  "https://github.com/Xeno1177/releases/releases/download/XCV-0.7.7/XCV-0.7.7-android.apk",
+                "published_at":  "2026-10-30T20:08:38Z"
+            }
 }
