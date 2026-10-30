@@ -1,9 +1,4 @@
 ﻿{
-    "AISorter":  {
-                     "tag":  "AISorter-1.2.5",
-                     "url":  "https://github.com/Xeno1177/releases/releases/download/AISorter-1.2.5/AISorter-1.2.5-win-x64.zip",
-                     "published_at":  "2026-10-22T18:30:12Z"
-                 },
     "IcarusMods":  {
                        "tag":  "IcarusMods-W247",
                        "url":  "https://github.com/Xeno1177/releases/releases/download/IcarusMods-W247/IcarusMods-W247.zip",
@@ -23,5 +18,10 @@
                        "tag":  "GameBackup-1.0.3",
                        "url":  "https://github.com/Xeno1177/releases/releases/download/GameBackup-1.0.3/GameBackup-1.0.3-win-x64.zip",
                        "published_at":  "2026-10-23T23:29:37Z"
-                   }
+                   },
+    "AISorter":  {
+                     "tag":  "AISorter-1.3.0",
+                     "url":  "https://github.com/Xeno1177/releases/releases/download/AISorter-1.3.0/AISorter-1.3.0-win-x64.zip",
+                     "published_at":  "2026-10-30T15:13:31Z"
+                 }
 }
