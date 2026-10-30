@@ -30,10 +30,10 @@
                         "published_at":  "2026-10-30T19:03:36Z"
                     },
     "XCV":  {
-                "tag":  "XCV-0.8.0",
-                "url":  "https://github.com/Xeno1177/releases/releases/download/XCV-0.8.0/XCV-0.8.0-android.apk",
-                "published_at":  "2026-10-30T21:54:58Z",
-                "sha256":  "de44a7556750d4de0b39ec8d6289d51eafc23916cc5b05d1622acfb9f2dfa615",
+                "tag":  "XCV-0.8.1",
+                "url":  "https://github.com/Xeno1177/releases/releases/download/XCV-0.8.1/XCV-0.8.1-android.apk",
+                "published_at":  "2026-10-30T21:57:45Z",
+                "sha256":  "8cbf69ca5d9b7be2113579380fbf9f6a0d059696e59a1c538601364d8575ba90",
                 "size":  1555284
             }
 }
