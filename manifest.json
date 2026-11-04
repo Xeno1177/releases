@@ -35,5 +35,10 @@
                 "published_at":  "2026-10-30T22:05:55Z",
                 "sha256":  "c87867d5b8fbbaa1899ed8c5184c9b6093ce9e51744309e79858a2dc4630c4fe",
                 "size":  1555284
-            }
+            },
+    "RWMagnifier":  {
+                        "tag":  "RWMagnifier-0.1.0",
+                        "url":  "https://github.com/Xeno1177/releases/releases/download/RWMagnifier-0.1.0/RWMagnifier-0.1.0-win-x64.zip",
+                        "published_at":  "2026-11-04T21:28:48Z"
+                    }
 }
